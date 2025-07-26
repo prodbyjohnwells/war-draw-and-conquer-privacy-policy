@@ -1,12 +1,12 @@
-# Privacy Policy – WAR: Draw & Conquer
+# Privacy Policy – War: Draw & Conquer
 
-This repository contains the privacy policy for the mobile game **WAR: Draw & Conquer**, developed by [prodbyjohnwells](mailto:prodbyjohnwells@gmail.com).
+This repository contains the privacy policy for the mobile game **War: Draw & Conquer**, developed by [prodbyjohnwells](mailto:prodbyjohnwells@gmail.com).
 
 ## 📄 View the Policy
 You can view the live HTML version of the privacy policy [here](./privacy-policy.html) or by opening `privacy-policy.html` in a browser.
 
 ## 🕹️ About the Game
-**WAR: Draw & Conquer** is a mobile card game designed for all ages. The game does not collect personal information, and only uses third-party services for ads and analytics.
+**War: Draw & Conquer** is a mobile card game designed for all ages. The game does not collect personal information and only uses third-party services for ads and analytics.
 
 ## 🔒 Compliance
 This privacy policy complies with:
